@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movie_search_app/static/css/main.8b3eeeb3.css",
+    "main.js": "/movie_search_app/static/js/main.12a50317.js",
+    "static/js/453.d150de9e.chunk.js": "/movie_search_app/static/js/453.d150de9e.chunk.js",
+    "static/media/Image5.jpg": "/movie_search_app/static/media/Image5.49ee1cf4036bb2633ebf.jpg",
+    "static/media/Image2.jpg": "/movie_search_app/static/media/Image2.606f13b264230f4119ac.jpg",
+    "static/media/Image4.jpg": "/movie_search_app/static/media/Image4.0ac3e10be4b313d140a1.jpg",
+    "static/media/Image3.jpg": "/movie_search_app/static/media/Image3.f44e8887da6e92d0d1a2.jpg",
+    "static/media/Image1.jpg": "/movie_search_app/static/media/Image1.692d3dd41a6013c62f42.jpg",
+    "static/media/Movie-film-disk-with-clapper-board-vector-PNG.png": "/movie_search_app/static/media/Movie-film-disk-with-clapper-board-vector-PNG.713468edbe58d871f85b.png",
+    "static/media/Movie-Hollywood-PNG-File.png": "/movie_search_app/static/media/Movie-Hollywood-PNG-File.9b9b77273f4c219b3f6d.png",
+    "static/media/oie_transparent.png": "/movie_search_app/static/media/oie_transparent.2c050990ceeff4447ee9.png",
+    "static/media/star.svg": "/movie_search_app/static/media/star.a7616c60657e1fb7bacf0759a5b869bd.svg",
+    "index.html": "/movie_search_app/index.html",
+    "static/media/bookmark.svg": "/movie_search_app/static/media/bookmark.ae615fdbdaf3f32e5cbd5acb425e47fd.svg",
+    "main.8b3eeeb3.css.map": "/movie_search_app/static/css/main.8b3eeeb3.css.map",
+    "main.12a50317.js.map": "/movie_search_app/static/js/main.12a50317.js.map",
+    "453.d150de9e.chunk.js.map": "/movie_search_app/static/js/453.d150de9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b3eeeb3.css",
+    "static/js/main.12a50317.js"
+  ]
+}
