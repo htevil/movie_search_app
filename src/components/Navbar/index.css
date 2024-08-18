@@ -1,0 +1,96 @@
+.navbar {
+    width: 80%;
+    height: fit-content;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fixed {
+  width: 100%;
+  height: fit-content;
+  position: fixed;
+  top: 0;
+  padding: 5px 80px 5px 80px;
+  background-color:  #080d25;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 0px;
+}
+  
+#logo{
+  width: 100%;
+  max-width: 165px;
+  height: 40px;
+  margin: 5px;
+}
+
+.group {
+  width: 600px;
+  height: fit-content;
+  margin: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+  
+input[type="text"] {
+    width: 500px;
+    height: 40px;
+    line-height: 28px;
+    padding: 0 1rem;
+    padding-left: 40px;
+    border-radius: 8px;
+    outline: none;
+    background-color: #001C30;
+    color: #DB6B97;
+    transition: 0.3s ease;
+}
+  
+input::placeholder {
+    color: #F2F2F2;
+    font-weight: 300;
+}
+  
+  input:focus,
+  input:hover {
+    outline: none;
+    border-color: rgba(0, 48, 73, 0.4);
+    background-color: #fff;
+    box-shadow: 0 0 0 4px rgb(0 48 73 / 10%);
+  }
+  
+  .icon {
+    width: 20px;
+    position: absolute;
+    left: 13px;
+    fill: #0887F8;
+}
+
+.btn{
+  width: fit-content;
+  height: fit-content;
+
+  font-weight: 400;
+  padding: 10px 5px 10px 5px;
+  background-color: transparent;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #F5F7F8;
+}
+
+.btn:hover{
+  color: #525CEB;
+  background-color: #17153B;
+}
+
+.fitler_btn{
+  width: 240px;
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

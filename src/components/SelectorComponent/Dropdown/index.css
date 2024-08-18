@@ -1,0 +1,45 @@
+.btn2{
+    width: fit-content;
+    height: fit-content;
+    font-size: 14px;
+    font-weight: 400;
+    color: #F5F7F8;
+    padding: 5px 2px 5px 2px;
+    margin: 5px;
+    background-color: transparent;
+    border-radius: 4px;
+
+}
+
+.activedb{
+    color: #525CEB;
+}
+
+.btn2:hover{
+    background-color: #17153B;
+    border: 1px #131842 solid;
+    color: #525CEB;
+}
+
+sl-menu{
+    width: 110px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 4px;
+}
+
+sl-menu-item{
+    padding: 5px 0px 5px 0px;
+    font-size: 12px;
+    font-weight: 400;
+    color: #F5F7F8;
+    border-bottom: 0.2px black solid;
+    margin: 0px;
+}
+
+sl-menu-item:hover{
+    background-color: #525CEB;
+}
+
+.activedd{
+    background-color: #525CEBa1;
+}

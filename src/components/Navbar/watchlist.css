@@ -1,0 +1,68 @@
+/* From Uiverse.io by vinodjangid07 */ 
+.WatchListBtn {
+    width: 100%;
+    max-width: 92.5px;
+    height: 38px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.349);
+    background-color: rgb(12, 12, 12, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    overflow: hidden;
+  }
+  
+  .IconContainer {
+    width: 24px;
+    height: 30px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    z-index: 2;
+    transition-duration: 0.3s;
+  }
+  
+  .icon {
+    border-radius: 1px;
+  }
+
+  p{
+    margin-bottom: 0px;
+  }
+  
+  .text {
+    height: 100%;
+    width: 100%;
+    max-width: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    z-index: 1;
+    transition-duration: 0.3s;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  
+  .WatchListBtn:hover .IconContainer {
+    width: 100%;
+    max-width: 85px;
+    transition-duration: 0.3s;
+  }
+  
+  .WatchListBtn:hover .text {
+    transform: translate(10px);
+    width: 0;
+    font-size: 0;
+    transition-duration: 0.3s;
+  }
+  
+  .WatchListBtn:active {
+    transform: scale(0.95);
+    background: #381380;
+    transition-duration: 0.3s;
+  }

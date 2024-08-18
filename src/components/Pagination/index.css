@@ -1,0 +1,18 @@
+.pagination-button {
+    width: 30px;
+    height: 30px;
+    color: white;
+    padding: 2px 5px 2px 5px;
+    border-radius: 4px;
+    background-color: transparent;
+    cursor: pointer; /* Add this to make the button clickable */
+  }
+  
+  .pagination-button:hover {
+    background-color: #8758FFa1; /* hover background color */
+  }
+  
+  .active {
+    background-color: #8758FFa1; /* active button background color */
+    color: #fff;
+  }

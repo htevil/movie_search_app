@@ -1,0 +1,60 @@
+.card{
+    width: 225.2px;
+    height: fit-content;
+    font-size: 12px;
+    background-color: #31363Fa1;
+    border-radius: 6px;
+    color: #FEF7EE;
+    font-weight: 300;
+}
+
+.poster{
+    width: 100%;
+    height: 333px;
+    background-size: cover;
+    border-radius: 4px 4px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.watchlist{
+    width:28px;
+    height: 32px;
+    border-radius: 0px 0px 4px 0px;
+    background-image: url('../../assets/addedwatchlist\ \(3\).png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgba(0,0,0,0.4);
+  }
+
+.watchlist:hover {
+    background-color: #8758FFa1;
+    transition-duration: 0.3s;
+  }
+
+.active {
+    background-color: #8758FF;
+}
+
+
+.rank{
+    width: 30px;
+    padding: 4px;
+    margin: 0px 0px 5px 5px;
+    text-align: center;
+    color: #fff;
+    background-color: #525CEBa1;
+    font-size: 14px;
+    border-radius: 2px;
+}
+
+.detail{
+    font-size: 13px;
+    padding: 3px 10px 0.5px 10px;
+}
+
+
+
+  
